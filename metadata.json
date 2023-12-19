@@ -2,71 +2,71 @@
   "sounds" : [
     {
       "description" : "BMW M3 racing on desolated airstrip",
-      "audioSource" : "ikbenraar - https:\/\/freesound.org\/people\/ikbenraar\/sounds\/415276\/ - This work is licensed under the Creative Attribution 4",
-      "imageSource" : "Rutger van der Maar -  https:\/\/flickr.com\/photos\/rutgervandermaar\/49186978173 - This work is licensed under the Creative Attribution 2",
+      "audioSource" : "[BMWM3_01](https://freesound.org/people/ikbenraar/sounds/415276/) by [ikbenraar](https://freesound.org/people/ikbenraar) is licensed under [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "imageSource" : "[2018 BMW M3 (F80)](https://flickr.com/photos/rutgervandermaar/49186978173) by [rutgervandermaar](https://flickr.com/photos/rutgervandermaar) is licensed under [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)",
       "name" : "BMW M3",
       "image" : "jpeg",
       "color" : "7AD69A"
     },
     {
       "description" : "Sound of a Boeing 777-200ER taking off; engine type is Rolls-Royce Trent 800",
-      "audioSource" : "Sonicwave32 -  https:\/\/freesound.org\/people\/Sonicwave32\/sounds\/433581\/ - This work is licensed under the Creative Attribution 0",
-      "imageSource" : "boeingdreamscape -  https:\/\/www.flickr.com\/photos\/49902951@N02\/4584793965 - This work is licensed under the Creative Attribution 2",
+      "audioSource" : "[Boeing 777 takeoff](https://freesound.org/people/Sonicwave32/sounds/433581/) by [Sonicwave32](https://freesound.org/people/Sonicwave32) is licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "imageSource" : "[Boeing 777 in then-Boeing livery](https://commons.wikimedia.org/wiki/File:Boeing_777_in_then-Boeing_livery_K58552.jpg) by [Boeing Dreamscape](https://www.flickr.com/photos/49902951@N02), is licensed under [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0)",
       "name" : "Boeing 777",
       "image" : "jpeg",
       "color" : "4755B7"
     },
     {
       "description" : "1974 model engine start and take off on a rural road in central Chile. By Estudio Mantra",
-      "audioSource" : "alelizama - https:\/\/freesound.org\/people\/alelizama\/sounds\/369522\/ - This work is licensed under the Creative Attribution 0.0",
-      "imageSource" : "vetaturfumare - https:\/\/www.flickr.com\/photos\/10047629@N04\/9857238783 - This work is licensed under the Creative Attribution 0.0 ",
+      "audioSource" : "[1974 Camaro Engine Start and Takeoff](https://freesound.org/people/alelizama/sounds/369522/) by [alelizama](https://freesound.org/people/alelizama) is licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "imageSource" : "[1974 Chevrolet Camaro Z28](https://www.flickr.com/photos/10047629@N04/9857238783) by [Vetatur Fumare](https://www.flickr.com/photos/10047629@N04/) is licensed under [Creative Commons SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)",
       "name" : "Chevrolet Camaro",
       "image" : "jpeg",
       "color" : "C57C2D"
     },
     {
       "description" : "1979 model",
-      "audioSource" : "danshousestudio - https:\/\/freesound.org\/people\/danshousestudio\/sounds\/328224\/ - This work is licensed under the Creative Attribution 0",
-      "imageSource" : "Sicnag - https:\/\/flickr.com\/photos\/42220226@N07\/30572182090 - This work is licensed under the Creative Attribution 2.0",
+      "audioSource" : "[Truck starting](https://freesound.org/people/danshousestudio/sounds/328224/) by [danshousestudio](https://freesound.org/people/danshousestudio/) is licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "imageSource" : "[1979 Ford F100 Custom Pickup](https://flickr.com/photos/42220226@N07/30572182090) by [Cars Down Under](https://flickr.com/photos/42220226@N07/) is licensed under [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)",
       "name" : "Ford F150",
       "image" : "jpeg",
       "color" : "D4BB41"
     },
     {
       "description" : "Harley Davidson XLCH Sportster",
-      "audioSource" : "NickPeeters - https:\/\/freesound.org\/people\/NickPeeters\/sounds\/483373\/ - This work is licensed under the Creative Attribution 4",
-      "imageSource" : "Jeff Bowles -  https:\/\/flickr.com\/photos\/21279478@N04\/2066748474 - This work is licensed under the Creative Attribution 2",
+      "audioSource" : "[Harley Davidson XLCH 1974_1](https://freesound.org/people/NickPeeters/sounds/483373/) by [AUTHOR](https://freesound.org/people/NickPeeters) is licensed under [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "imageSource" : "[1957 XL-DSCN0328](https://flickr.com/photos/21279478@N04/2066748474) by [Jeff Bowles](https://flickr.com/photos/jmanjeff/) is licensed under [Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)",
       "name" : "Harley Davidson",
       "image" : "jpeg",
       "color" : "7B7975"
     },
     {
-      "audioSource" : "mrrap4food - https:\/\/freesound.org\/people\/mrrap4food\/sounds\/619071\/ - This work is licensed under the Creative Attribution 0.0 ",
-      "imageSource" : "Alexey Taktarov - https:\/\/unsplash.com\/photos\/uEwoaYpzxOw",
+      "audioSource" : "[Ice Cream Truck](https://freesound.org/people/mrrap4food/sounds/619071/) by [mrrap4food](https://freesound.org/people/mrrap4food) is licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "imageSource" : "[white and green van parked beside building during daytime](https://unsplash.com/photos/uEwoaYpzxOw) by [Alexey Taktarov](https://unsplash.com/@molefrog) - [Unsplash License](https://unsplash.com/license)",
       "name" : "Ice Cream Truck",
       "image" : "jpeg",
       "color" : "74E0DD"
     },
     {
       "description" : "1977 diesel model",
-      "audioSource" : "jjhamer - https:\/\/freesound.org\/people\/jjhamer\/sounds\/406808\/ - This work is licensed under the Creative Attribution 0.0",
-      "imageSource" : "Ra Boe - https:\/\/commons.wikimedia.org\/wiki\/File:Freiburg_Elbe_-Oldtimer-Trecker-Treffen-_2018_by-RaBoe_048.jpg - This work is licensed under the Creative Attribution 3.0",
+      "audioSource" : "[JD 950 Diesel](https://freesound.org/people/jjhamer/sounds/406808/) by [jjhamer](https://freesound.org/people/jjhamer) is licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "imageSource" : "[Freiburg Elbe -Oldtimer-Trecker-Treffen- 2018 by-RaBoe 048](https://commons.wikimedia.org/wiki/File:Freiburg_Elbe_-Oldtimer-Trecker-Treffen-_2018_by-RaBoe_048.jpg) by [Ra Boe](https://de.wikipedia.org/wiki/User:Raboe001) is licensed under [Creative Commons CC-by-sa-3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/legalcode)",
       "name" : "John Deere 950 Tractor",
       "image" : "jpeg",
       "color" : "6CAA4D"
     },
     {
       "description" : "2018 model idling before switching into sport mode and launching",
-      "audioSource" : "myeclecticself - https:\/\/freesound.org\/people\/myeclecticself\/sounds\/585215\/ - This work is licensed under the Creative Attribution 0.0",
-      "imageSource" : "Vauxford - https:\/\/commons.wikimedia.org\/wiki\/File:2018_Maserati_GranTurismo_Sport_Automatic_4.7_Front.jpg- This work is licensed under the Creative Attribution 4.0",
+      "audioSource" : "[Car Engine: Maserati GranTurismo Switch to Sport Mode and Launch](https://freesound.org/people/myeclecticself/sounds/585215/) by [myeclecticself](https://freesound.org/people/myeclecticself) is licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "imageSource" : "[Vauxford](https://commons.wikimedia.org/wiki/File:2018_Maserati_GranTurismo_Sport_Automatic_4.7_Front.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)",
       "name" : "Maserati GranTurismo",
       "image" : "jpeg",
       "color" : "476FD1"
     },
     {
       "description" : "Narrow gauge px48 model",
-      "audioSource" : "monosfera - https:\/\/freesound.org\/people\/monosfera\/sounds\/569836\/ - This work is licensed under the Creative Attribution 0.0",
-      "imageSource" : "Crusier - https:\/\/en.wikipedia.org\/wiki\/File:Px48_1778_MKD_6.JPG- This work is licensed under the Creative Attribution 3.0",
+      "audioSource" : "[parowoz_px48_stereo](https://freesound.org/people/monosfera/sounds/569836/) by [monosfera](https://freesound.org/people/monosfera) is licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)",
+      "imageSource" : "[Px48 1778 MKD 6](https://en.wikipedia.org/wiki/File:Px48_1778_MKD_6.JPG) by [Crusier](https://commons.wikimedia.org/wiki/User:Crusier) is licensed under [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)",
       "name" : "Steam Locomotive",
       "image" : "jpeg",
       "color" : "D7453A"
@@ -75,7 +75,7 @@
   "color" : "FF9500",
   "image" : "jpeg",
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
-  "imageSource" : "monosfera - https:\/\/freesound.org\/people\/monosfera\/sounds\/569836\/ - This work is licensed under the Creative Attribution 0.0",
+  "imageSource" : "[Tachometer](https://unsplash.com/photos/white-and-blue-analog-tachometer-gauge-HUJDz6CJEaM) by [Chris Liverani](https://unsplash.com/@chrisliverani) - [Unsplash License](https://unsplash.com/license)",
   "audioSource" : "Various",
   "duration" : 444,
   "size" : 15130626,
